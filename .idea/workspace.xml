@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="Learn kotlin to build android apps">
+    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="A simple arithmetic program">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnKotlinn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnKotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <module name="LearnKotlinn" />
+      <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693835100050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A simple arithmetic program">
+      <created>1693838402776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693838402776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learn kotlin to build android apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn kotlin to build android apps" />
+    <MESSAGE value="A simple arithmetic program" />
+    <option name="LAST_COMMIT_MESSAGE" value="A simple arithmetic program" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
