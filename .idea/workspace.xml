@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="A simple arithmetic program">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="Printing out statements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnKotlinn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnKotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693838402776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Printing out statements">
+      <created>1693840160874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693840160874</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +100,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learn kotlin to build android apps" />
     <MESSAGE value="A simple arithmetic program" />
-    <option name="LAST_COMMIT_MESSAGE" value="A simple arithmetic program" />
+    <MESSAGE value="Printing out statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printing out statements" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
