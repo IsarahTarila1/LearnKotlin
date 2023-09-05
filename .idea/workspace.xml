@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="Printing out statements">
+    <list default="true" id="8d681999-295e-4683-bdde-d016401262f8" name="Changes" comment="Arrays and its elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693840160874</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arrays and its elements">
+      <created>1693904029979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693904029979</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +108,8 @@
     <MESSAGE value="Learn kotlin to build android apps" />
     <MESSAGE value="A simple arithmetic program" />
     <MESSAGE value="Printing out statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printing out statements" />
+    <MESSAGE value="Arrays and its elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays and its elements" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
